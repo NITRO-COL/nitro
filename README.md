@@ -1,6 +1,6 @@
 # nitro
 ![MetaHead]
-<h1 align="center">Hii 👋, I'm ADITYA JAIN</h1>
+<h1 align="center">Hii 👋, I'm NITRO</h1>
 <h3 align="center">In a field of Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajain0311&label=Profile%20views&color=0e75b6&style=flat" alt="ajain0311" /> </p>
@@ -17,10 +17,10 @@
 
 - 🤝 I’m looking for help with *developers*
 
-- 💬 Ask me about **C, C++, python,DBMS, html and css
+- 💬 Ask me about **C, python, DBMS, html and css
 , java and dart**
 
-- 📫 How to reach me *adityajain8875389629@gmail.com*
+- 📫 How to reach me *rajendrasinghraorajendrasingh@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KfRP_KaKYU7MSkbCTlesUUyXvsxrEwRd/view?usp=sharing](https://drive.google.com/file/d/1KfRP_KaKYU7MSkbCTlesUUyXvsxrEwRd/view?usp=sharing)
 
